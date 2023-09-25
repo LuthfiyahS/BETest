@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+package-lock.json
+yarn.lock
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Config files
+.vscode/
